@@ -22,6 +22,10 @@ Qwen is a multimodal model — it reads text **and** vision — so beyond the te
 
 Full walkthrough — 3D stadium showcase, the complete renovation simulation (3× speed), and the football game with highlight REPLAY close-up (1× speed):
 
+<iframe width="100%" aspect-ratio="16 / 9" src="https://www.youtube.com/embed/mvPAfMQZsiQ" title="Hughes Memorial Stadium — 3D Model & Interactive Simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[▶ Watch on YouTube — youtu.be/mvPAfMQZsiQ](https://youtu.be/mvPAfMQZsiQ)
+
 <video controls width="100%">
   <source src="https://dtl-ai.github.io/hughes-stadium-3d/video/hughes-stadium-demo.mp4" type="video/mp4">
   <source src="https://dtl-ai.github.io/hughes-stadium-3d/video/hughes-stadium-demo.webm" type="video/webm">
