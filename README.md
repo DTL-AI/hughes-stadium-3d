@@ -2,6 +2,22 @@
 
 An interactive **three.js** model of [Hughes Memorial Stadium](https://en.wikipedia.org/wiki/Hughes_Memorial_Stadium) (Morgan State University, Baltimore, MD) built to its official dimensions — **120 yds × 160 ft (57,600 sq ft)** — including the 8-lane running track, turf field, press boxes, seating and the scoreboard. Fully self-contained in a single HTML file (three.js via CDN; no build step).
 
+## 🐻 Project Statement
+
+**@Morgan State University — Hughes Stadium 3D Modeling, Renovation Project Simulation & Football Game Replay**
+
+- **Agentic AI Setup:** Hermes Desktop + Ollama + Qwen3.8 27B (Reasoning: Medium) · RTX 5090 eGPU · AMD 395+
+- **Vibe Coding & 3D Modeling:** three.js
+
+Qwen is a multimodal model — it reads text **and** vision — so beyond the text prompt, the following materials were fed to the AI agent:
+
+| Input | Description | Source |
+|-------|-------------|--------|
+| 🖼 Images | Drone and ground views of Hughes Stadium, manually searched from the web | e.g. [Morgan State Facebook post](https://www.facebook.com/morganstateu/posts/its-bear-family-weekend-and-the-morgan-state-bears-are-ready-for-kickoff-bring-t/1475242091317320/) |
+| 📄 PDF | 11/9/2019 game NC A&T vs MSU — official box score | https://ncataggies.com/football/2019/boxscore/at-morgan-state/2499/pdf |
+| 🎬 Video | @Beynon Sports — construction timelapse video | https://app.oxblue.com/open/benyon/morganstate |
+| 🌐 Webpages | Additional webpages searched by the AI agent | e.g. the 2019 rosters for the Bears and the Aggies |
+
 ## What's inside
 
 ### 🏟 Stadium model
