@@ -2,6 +2,9 @@
 
 An interactive **three.js** model of [Hughes Memorial Stadium](https://en.wikipedia.org/wiki/Hughes_Memorial_Stadium) (Morgan State University, Baltimore, MD) built to its official dimensions — **120 yds × 160 ft (57,600 sq ft)** — including the 8-lane running track, turf field, press boxes, seating and the scoreboard. Fully self-contained in a single HTML file (three.js via CDN; no build step).
 
+> ## 🚀 ▶ [**Run the Live App in Your Browser — https://dtl-ai.github.io/hughes-stadium-3d/**](https://dtl-ai.github.io/hughes-stadium-3d/)
+> **No install, no download — open the link and drive the stadium, the renovation sim, and the game.**
+
 ## 🐻 Project Statement
 
 **@Morgan State University — Hughes Stadium 3D Modeling, Renovation Project Simulation & Football Game Replay**
@@ -61,7 +64,9 @@ Full 11-on-11 animated simulation of the 195-event game (final: **MSU 22 · NC A
 
 ## Run it
 
-No build step. Just open:
+**🌐 Online (no install):** [https://dtl-ai.github.io/hughes-stadium-3d/](https://dtl-ai.github.io/hughes-stadium-3d/) — open in any browser and click **🏗 Stadium Construction & Renovation** or **🏈 Game Day**.
+
+**Local:** no build step. Just open:
 
 ```
 index.html
