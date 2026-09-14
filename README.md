@@ -22,18 +22,17 @@ Qwen is a multimodal model — it reads text **and** vision — so beyond the te
 
 Full walkthrough — 3D stadium showcase, the complete renovation simulation (3× speed), and the football game with highlight REPLAY close-up (1× speed):
 
-<iframe width="100%" aspect-ratio="16 / 9" src="https://www.youtube.com/embed/mvPAfMQZsiQ" title="Hughes Memorial Stadium — 3D Model & Interactive Simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[▶ **Watch on YouTube**](https://youtu.be/mvPAfMQZsiQ)
 
-[▶ Watch on YouTube — youtu.be/mvPAfMQZsiQ](https://youtu.be/mvPAfMQZsiQ)
+<a target="_blank" href="https://youtu.be/mvPAfMQZsiQ" title="Hughes Memorial Stadium — 3D Model & Interactive Simulations"><img alt="Hughes Memorial Stadium — 3D Model & Interactive Simulations (click to play on YouTube)" src="https://i.ytimg.com/vi/mvPAfMQZsiQ/maxresdefault.jpg" width="100%"></a>
 
 <video controls width="100%">
   <source src="https://dtl-ai.github.io/hughes-stadium-3d/video/hughes-stadium-demo.mp4" type="video/mp4">
   <source src="https://dtl-ai.github.io/hughes-stadium-3d/video/hughes-stadium-demo.webm" type="video/webm">
-  Your browser does not support embedded videos —
-  <a href="https://dtl-ai.github.io/hughes-stadium-3d/video/hughes-stadium-demo.mp4">open the demo video</a>.
+  Your browser does not support embedded videos — <a href="https://dtl-ai.github.io/hughes-stadium-3d/video/hughes-stadium-demo.mp4">open the demo video</a>.
 </video>
 
-[Direct download / open](https://github.com/DTL-AI/hughes-stadium-3d/blob/main/video/hughes-stadium-demo.webm)
+[Direct download / open](https://github.com/DTL-AI/hughes-stadium-3d/blob/main/video/hughes-stadium-demo.mp4)
 
 ## What's inside
 
