@@ -1,0 +1,14 @@
+node_modules/
+*.log
+.DS_Store
+shot/
+demo/
+src/
+*.bak
+*.bak.*
+*.png
+!vid/*.png
+
+games_nov9.js
+games_nov9_pbb.json
+verify_scale.js
