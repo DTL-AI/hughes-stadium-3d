@@ -18,6 +18,19 @@ Qwen is a multimodal model — it reads text **and** vision — so beyond the te
 | 🎬 Video | @Beynon Sports — construction timelapse video | https://app.oxblue.com/open/benyon/morganstate |
 | 🌐 Webpages | Additional webpages searched by the AI agent | e.g. the 2019 rosters for the Bears and the Aggies |
 
+## 🎬 Demo Video
+
+Full walkthrough — 3D stadium showcase, the complete renovation simulation (3× speed), and the football game with highlight REPLAY close-up (1× speed):
+
+<video controls width="100%">
+  <source src="https://dtl-ai.github.io/hughes-stadium-3d/video/hughes-stadium-demo.mp4" type="video/mp4">
+  <source src="https://dtl-ai.github.io/hughes-stadium-3d/video/hughes-stadium-demo.webm" type="video/webm">
+  Your browser does not support embedded videos —
+  <a href="https://dtl-ai.github.io/hughes-stadium-3d/video/hughes-stadium-demo.mp4">open the demo video</a>.
+</video>
+
+[Direct download / open](https://github.com/DTL-AI/hughes-stadium-3d/blob/main/video/hughes-stadium-demo.webm)
+
 ## What's inside
 
 ### 🏟 Stadium model
